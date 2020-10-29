@@ -1,0 +1,12 @@
+img[src~="mainStyles"] {
+   width:200px;
+   height:400px;
+   padding: 20;
+
+}
+
+img[src~="selectedStyles"] {
+   width:300px;
+   height:600px;
+   padding: 20;
+}
